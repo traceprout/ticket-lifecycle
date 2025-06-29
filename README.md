@@ -33,7 +33,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Basically when you first start out with your first intake of the day, you look at the problem that the client is dealing with and look at the severity of the situation as well. You can see what kind of SLA is attached to it and who it is assigned to. For example this ticket states that the online banking system is down and it has a SEV-A SLA. This is very important so we need to fix this issue as quickly as possible. We will keep in touch with the client on a (1 hour, 24/7) basis. 
+Basically when you first start out with your first intake of the day, you look at the problem that the client is dealing with and look at the severity of the situation as well. You can see what kind of SLA is attached to it and who it is assigned to. For example this ticket states that the online banking system is down and it has a default SLA. This is very important so we need to fix this issue as quickly as possible. We will keep in touch with the client and keep them updated on the problem. 
 </p>
 <br />
 
