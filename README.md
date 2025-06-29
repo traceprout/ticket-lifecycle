@@ -29,16 +29,18 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![osticket 7](https://github.com/user-attachments/assets/636c2622-180b-4453-9bcf-dc8280814d57)
+
 </p>
 <p>
 Basically when you first start out with your first intake of the day, you look at the problem that the client is dealing with and look at the severity of the situation as well. You can see what kind of SLA is attached to it and who it is assigned to. For example this ticket states that the online banking system is down and it has a SEV-A SLA. This is very important so we need to fix this issue as quickly as possible. We will keep in touch with the client and keep them updated on the problem (1 hour/ 24/7). 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![osticket 8](https://github.com/user-attachments/assets/9b6cf43b-93ba-4f7d-a456-dcbe1d90aa99)
+
 </p>
 <p>
 Whenever you work on the ticket it usually emails the client just to keep them updated on the progress that you are making to get their issue resolved. There also might be somedays where you might be assigned tickets not through a usual ticketing system like osTicket, for example, (phone, email, phone app, etc.) you can work those kinds of tickets but for the workplace it is better to always put it in a ticket for documentation.
